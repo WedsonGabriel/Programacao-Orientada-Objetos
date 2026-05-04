@@ -12,7 +12,6 @@ novamente os dados do funcionário. Use a classe projetada abaixo.
 
 package Programa;
 import Entities.Funcionario;
-
 import java.util.Locale;
 import java.util.Scanner;
 
