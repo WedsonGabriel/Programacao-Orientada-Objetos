@@ -10,9 +10,7 @@ pelos cálculos.
 */
 
 package Programa;
-
 import Util.CurrencyConverter;
-
 import java.util.Locale;
 import java.util.Scanner;
 
