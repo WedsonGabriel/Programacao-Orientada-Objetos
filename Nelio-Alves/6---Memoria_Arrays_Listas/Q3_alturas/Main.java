@@ -22,7 +22,6 @@ public class Q3_alturas {
 
         for (int i = 0; i < n; i++) {
             sc.nextLine();
-            pessoa[i] = new Pessoa();
             System.out.println("Dados da " + pessoaNumero + "a pessoa:");
             System.out.print("Nome: ");
             String nome = sc.nextLine();
